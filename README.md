@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm a Mobile Developer</h1>
+<h1 align="center">Hi there 👋, I'm a Mobile&Web Developer</h1>
 
 <p align="center">
   🚀 Passionate about building robust, cross-platform mobile apps with Flutter and solving real-world problems with technology.
