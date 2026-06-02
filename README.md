@@ -26,11 +26,19 @@
 
 ---
 
-### 📲 My App
+### 📲 My Apps
 
 - **🔹 [Astro Dream – AI Dream Interpretation](https://play.google.com/store/apps/details?id=com.sabosoftware.astrodream)**  
   _AI-powered dream interpretations and astrology insights, built with Flutter and OpenAI._  
   ✅ Available on [Google Play](https://play.google.com/store/apps/details?id=com.sabosoftware.astrodream) and [Apple App Store](https://apps.apple.com/tr/app/astro-dream-dream-analysis/id6740456050)
+
+- **🔹 [Shopping Lens AI – Shop Helper](https://play.google.com/store/apps/details?id=com.sabosoftware.productscanner)**  
+  _AI-powered product scanner and shopping assistant._  
+  ✅ Available on [Google Play](https://play.google.com/store/apps/details?id=com.sabosoftware.productscanner)
+
+- **🔹 [Ümmet Hareketi](https://play.google.com/store/apps/details?id=com.tify.ummetharekati.ummet_harekati_app)**  
+  _Humanitarian aid tracking and donation platform — support projects like water wells, orphan sponsorship, and food aid._  
+  ✅ Available on [Google Play](https://play.google.com/store/apps/details?id=com.tify.ummetharekati.ummet_harekati_app)
 
 ---
 
